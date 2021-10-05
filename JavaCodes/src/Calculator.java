@@ -12,7 +12,7 @@ public class Calculator {
         int remainder = number1 % number2;
 
         //printing output
-        System.out.println(sum);
+        System.out.println("sum = " + sum);
         System.out.println(difference);
         System.out.println(product);
         System.out.println(quotient);
