@@ -2,7 +2,7 @@ public class Area {
 
     public static void main(String[] args) {
         System.out.println(area(7, 8));
-        System.out.println(area(3, 4, 5));
+        System.out.println(area(3, 4, 5) * 2);
     }
 
     public static double area(float a, float b, float c) {
