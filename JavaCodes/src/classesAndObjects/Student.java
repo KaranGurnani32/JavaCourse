@@ -2,7 +2,7 @@ package classesAndObjects;
 
 public class Student {
 
-    //declaration
+    //properties
     private String name;
     private int rollNumber;
     private int standard;

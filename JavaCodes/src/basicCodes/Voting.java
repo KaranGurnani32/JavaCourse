@@ -1,3 +1,5 @@
+package basicCodes;
+
 public class Voting {
     public static void main(String[] args) {
 
