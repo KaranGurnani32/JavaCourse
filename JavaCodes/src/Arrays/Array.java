@@ -51,7 +51,87 @@ public class Array {
         a = insertAfterSpecificElement(a, 78, 100);
         printArray(a);
 
+        a = insertbeforeSpecificElement(a, 78, 150);
+        printArray(a);
+
+        a = deleteEnd(a);
+        printArray(a);
+
+        a = deleteBeginning(a);
+        printArray(a);
+
+        a = deleteSpecificIndex(a, 5);
+        printArray(a);
+
+        a = deleteSpecificElement(a, 92);
+        printArray(a);
+
     }
+
+    private static int[] deleteSpecificIndex(int[] a, int index) {
+
+        if(index < 0 || index > a.length-1) {
+            System.out.println("invalid index");
+            return a;
+        }
+
+        int [] newA = new int[a.length - 1];
+
+        for (int i = 0; i < index; i++) {
+            newA[i] = a[i];
+        }
+
+        for (int i = index; i < a.length - 1; i++) {
+            newA[i] = a[i+1];
+        }
+
+        return newA;
+
+    }
+
+    private static int [] deleteSpecificElement(int [] a, int element) {
+        boolean found = true;
+        int index = -1;
+
+        for (int i = 0; i < a.length; i++) {
+            if (a[i] == element) {
+                found = true;
+                index = i;
+                break;
+            }
+        }
+
+        if (found) {
+            int[] newA = deleteSpecificIndex(a, index);
+            return newA;
+        } else {
+            System.out.println("element not present in the array");
+            return a;
+        }
+    }
+
+    private static int[] deleteEnd(int[] a) {
+
+        int [] newA = new int[a.length - 1];
+
+        for (int i = 0; i < a.length - 1; i++) {
+            newA[i] = a[i];
+        }
+
+        return newA;
+    }
+
+    private static int[] deleteBeginning(int[] a) {
+        int [] newA = new int[a.length - 1];
+
+        for (int i = 1; i < a.length; i++) {
+            newA[i-1] = a[i];
+        }
+
+        return newA;
+    }
+
+
 
     private static int[] insertBeginning(int[] a, int element) {
         //i have the original
@@ -71,7 +151,7 @@ public class Array {
 
         return newA;
     }
-    private static int[] insertAfterSpecificElement(int[] a, int element, int value) {
+    private static int[] insertbeforeSpecificElement(int[] a, int element, int value) {
 
         boolean found = true;
         int index = -1;
@@ -85,7 +165,7 @@ public class Array {
         }
 
         if(found) {
-            int[] newA = insertSpecificIndex(a, value, index + 1);
+            int[] newA = insertSpecificIndex(a, value, index);
             return newA;
         } else {
             System.out.println("element not present in the array");
@@ -94,7 +174,27 @@ public class Array {
 
 
     }
+    private static int[] insertAfterSpecificElement(int[] a, int element, int value) {
 
+        boolean found = true;
+        int index = -1;
+
+        for (int i = 0; i < a.length; i++) {
+            if (a[i] == element) {
+                found = true;
+                index = i;
+                break;
+            }
+        }
+
+        if (found) {
+            int[] newA = insertSpecificIndex(a, value, index+1);
+            return newA;
+        } else {
+            System.out.println("element not present in the array");
+            return a;
+        }
+    }
     private static int[] insertSpecificIndex(int[] a, int element, int index) {
         //i have the original
         //i have the element to be inserted

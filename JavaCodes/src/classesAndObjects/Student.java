@@ -1,7 +1,6 @@
 package classesAndObjects;
 
 public class Student {
-
     //properties
     private String name;
     private int rollNumber;
@@ -9,18 +8,18 @@ public class Student {
     private float marks;
 
     // method
-    public void getDetails(String name, int rollNumber, int standard, float marks) {
-        this.name = name;
-        this.rollNumber = rollNumber;
-        this.standard = standard;
-        this.marks = marks;
+    public void getDetails(String name2, int rollNumber2, int standard2, float marks2) {
+        name = name2;
+        rollNumber = rollNumber2;
+        standard = standard2;
+        marks = marks2;
     }
 
     public void showDetails() {
-        System.out.println("name : " + this.name);
-        System.out.println("roll number  : " + this.rollNumber);
-        System.out.println("standard : " + this.standard);
-        System.out.println("marks : " + this.marks);
+        System.out.println("name : " + name);
+        System.out.println("roll number  : " + rollNumber);
+        System.out.println("standard : " + standard);
+        System.out.println("marks : " + marks);
         System.out.println(calculateGrade());
     }
 

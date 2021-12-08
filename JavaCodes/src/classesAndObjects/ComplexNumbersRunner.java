@@ -11,9 +11,14 @@ public class ComplexNumbersRunner {
         Complex c = a.add(b);
         Complex d = a.subtract(b);
         Complex p = a.multiply(b);
+        Complex k = a.specialMove(b);
+
 
         c.show();
         d.show();
         p.show();
+        k.show();
     }
+
+
 }

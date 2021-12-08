@@ -19,11 +19,11 @@ public class Complex {
         System.out.println("(" + real + ") + i(" + imaginary + ")");
     }
 
-    public Complex add(Complex complex) {
+    public Complex add(Complex b) {
         Complex sum = new Complex();
 
-        sum.real = this.real + complex.real;
-        sum.imaginary = this.imaginary + complex.imaginary;
+        sum.real = this.real + b.real;
+        sum.imaginary = this.imaginary + b.imaginary;
 
         return sum;
     }
@@ -35,6 +35,15 @@ public class Complex {
         difference.imaginary = this.imaginary - complex.imaginary;
 
         return difference;
+    }
+
+    public Complex specialMove(Complex complex) {
+        Complex special = new Complex();
+
+        special.real = 2 * complex.imaginary;
+        special.imaginary = 80 + complex.real;
+
+        return special;
     }
 
     public Complex multiply(Complex complex) {
