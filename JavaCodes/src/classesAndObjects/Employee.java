@@ -45,6 +45,7 @@ public class Employee {
         System.out.println(salary);
         System.out.println(empID);
         System.out.println(designation);
+        System.out.println("******");
     }
 
     String calculatePayGrade() {

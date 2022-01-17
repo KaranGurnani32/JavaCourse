@@ -20,7 +20,7 @@ public class EmployeeRunner {
 
         String name;
         double salary;
-        int empID;
+        Integer empID;
         String designation;
 
         Scanner scanner = new Scanner(System.in);
@@ -29,9 +29,6 @@ public class EmployeeRunner {
 
         name = scanner.nextLine();
 
-        System.out.println("Enter Salary");
-
-        salary = scanner.nextDouble();
 
         System.out.println("Enter empID");
 
@@ -40,6 +37,10 @@ public class EmployeeRunner {
         System.out.println("Enter Designation");
         scanner.nextLine();
         designation = scanner.nextLine();
+
+        System.out.println("Enter Salary");
+
+        salary = scanner.nextDouble();
 
         Employee karan = new Employee(name, salary, empID, designation);
 

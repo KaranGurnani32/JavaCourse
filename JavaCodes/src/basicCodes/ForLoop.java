@@ -19,6 +19,5 @@ public class ForLoop {
         } else {
             System.out.println("its not a panendrom");
         }
-
 }
 }
