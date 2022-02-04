@@ -2,113 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="904a4ae5-2ec2-4da9-98f6-c5f634684034" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/LinkedList/LinkedListRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/LinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/LinkedList/SingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/LinkedList2/LinkedListRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/LinkedList2/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/LinkedList2/SingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/LinkedList3/LinkedListRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/LinkedList3/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/LinkedList3/Shishya.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/LinkedList3/ShishyaLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/LinkedList3/SingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/StudentLinkedList/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/StudentLinkedList/ListRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/StudentLinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/StudentLinkedList/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/basicCodes/PoolPuzzleOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/basicCodes/Shuffle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/basicCodes/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/GuessGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/RefBook_DVDPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/RefBook_TapeDeck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects2/DrumKit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects2/EchoTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCourse.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/JavaCodes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/JavaCodes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/Arrays/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/Arrays/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/Arrays/Array2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/Arrays/Array2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/Arrays/PracticeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/Arrays/PracticeArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/basicCodes/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/basicCodes/Area.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/basicCodes/BeerSong.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/basicCodes/BeerSong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/basicCodes/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/basicCodes/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/basicCodes/Doo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/basicCodes/EquationSolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/basicCodes/EquationSolver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/basicCodes/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/basicCodes/ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/basicCodes/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/basicCodes/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/basicCodes/IfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/basicCodes/IfTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/basicCodes/PracticeQ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/basicCodes/PracticeQ1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/basicCodes/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/basicCodes/Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/basicCodes/Voting.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/basicCodes/Voting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/AddDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/AddDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Area.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/AreaQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/AreaQuestion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/AreaQuestionRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/AreaQuestionRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/AreaRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/AreaRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Average.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/AverageRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/AverageRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/BankAccountRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/BankAccountRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Complex.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Complex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Complex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Complex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/ComplexNumbersRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/ComplexNumbersRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Distance.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Distance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Employee2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Employee2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Employee2Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Employee2Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/EmployeeRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/EmployeeRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/RectangleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/RectangleRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Student2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Student2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Student2Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Student2Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Student3.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Student3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Student3Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Student3Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/StudentRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/StudentRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/TrainTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/TrainTicket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/TrainTicketRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/TrainTicketRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Triangle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/Triangle2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/TriangleRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/TriangleRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/cwh_38_youtube.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/cwh_38_youtube.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/cwh_39_youtube.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/cwh_39_youtube.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/cwh_40_youtube.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/cwh_40_youtube.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/cwh_42.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/classesAndObjects/cwh_42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/dataTypes/DataTypesTutorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/dataTypes/DataTypesTutorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/loops/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/loops/ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/loops/PQ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/loops/PQ1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/loops/PQ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/loops/PQ2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/loops/PQ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/loops/PQ3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/loops/PQ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/loops/PQ4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/loops/PQ5.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/loops/PQ5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/loops/PQ6.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/loops/PQ6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/loops/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/loops/WhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/operators/ArithmeticOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/operators/ArithmeticOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/operators/LoopQ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/operators/LoopQ2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCodes/src/operators/WhileLoppQ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/operators/WhileLoppQ1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCodes/src/basic_code_practice/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCodes/src/basic_code_practice/BeerSong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCodes/src/basic_code_practice/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCodes/src/basic_code_practice/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCodes/src/basic_code_practice/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCodes/src/basic_code_practice/Static_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCodes/src/basic_codes/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaCodes/src/classesandobjects2/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/arrays/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/arrays/Array2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/arrays/PracticeArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/basic_codes/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCodes/src/basic_codes/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/basic_codes/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/linkedlist/LinkedListRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/linkedlist/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/linkedlist/SingleLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/linkedlist2/LinkedListRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/linkedlist2/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/linkedlist2/SingleLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/linkedlist3/LinkedListRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/linkedlist3/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/linkedlist3/Shishya.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/linkedlist3/ShishyaLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/linkedlist3/SingleLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/practice_basic_code/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/studen_linked_list/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/studen_linked_list/ListRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/studen_linked_list/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCodes/src/studen_linked_list/Student.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/JavaCodes/src/basic_codes/ScannerCode.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JavaCodes/src/basic_code_practice/Area.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JavaCodes/src/basic_codes/ScannerCase.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -121,7 +65,97 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithm/Week1" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Hospital" />
+  </component>
+  <component name="RunManager" selected="Application.Calculate">
+    <configuration name="BeerSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic_code_practice.BeerSong" />
+      <module name="JavaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic_code_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic_code_practice.Calculate" />
+      <module name="JavaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic_code_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic_code_practice.Counter" />
+      <module name="JavaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic_code_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic_codes.ScannerCase" />
+      <module name="JavaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic_codes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStaticVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic_code_practice.TestStaticVariable" />
+      <module name="JavaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic_code_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classesandobjects2.TestStudent" />
+      <module name="JavaCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classesandobjects2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculate" />
+        <item itemvalue="Application.TestStaticVariable" />
+        <item itemvalue="Application.Counter" />
+        <item itemvalue="Application.TestStudent" />
+        <item itemvalue="Application.ScannerCase" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -133,5 +167,16 @@
       <updated>1640153877234</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -14,9 +14,9 @@ public class Area {
         return area;
     }
 
-    public static double area(float length, float bredth) {
+    public static double area(float length, float breadth) {
         //area of rectangle
-        double area = (length * bredth);
+        double area = (length * breadth);
 
         return area;
     }
